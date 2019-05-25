@@ -1,0 +1,11 @@
+H:\Sem2\Comp123_Programming2\Assignments\Assignments\TweetAssignment\obj\Debug\netcoreapp2.1\TweetAssignment.csprojAssemblyReference.cache
+H:\Sem2\Comp123_Programming2\Assignments\Assignments\TweetAssignment\obj\Debug\netcoreapp2.1\TweetAssignment.csproj.CoreCompileInputs.cache
+H:\Sem2\Comp123_Programming2\Assignments\Assignments\TweetAssignment\obj\Debug\netcoreapp2.1\TweetAssignment.AssemblyInfoInputs.cache
+H:\Sem2\Comp123_Programming2\Assignments\Assignments\TweetAssignment\obj\Debug\netcoreapp2.1\TweetAssignment.AssemblyInfo.cs
+H:\Sem2\Comp123_Programming2\Assignments\Assignments\TweetAssignment\bin\Debug\netcoreapp2.1\TweetAssignment.deps.json
+H:\Sem2\Comp123_Programming2\Assignments\Assignments\TweetAssignment\bin\Debug\netcoreapp2.1\TweetAssignment.runtimeconfig.json
+H:\Sem2\Comp123_Programming2\Assignments\Assignments\TweetAssignment\bin\Debug\netcoreapp2.1\TweetAssignment.runtimeconfig.dev.json
+H:\Sem2\Comp123_Programming2\Assignments\Assignments\TweetAssignment\bin\Debug\netcoreapp2.1\TweetAssignment.dll
+H:\Sem2\Comp123_Programming2\Assignments\Assignments\TweetAssignment\bin\Debug\netcoreapp2.1\TweetAssignment.pdb
+H:\Sem2\Comp123_Programming2\Assignments\Assignments\TweetAssignment\obj\Debug\netcoreapp2.1\TweetAssignment.dll
+H:\Sem2\Comp123_Programming2\Assignments\Assignments\TweetAssignment\obj\Debug\netcoreapp2.1\TweetAssignment.pdb
